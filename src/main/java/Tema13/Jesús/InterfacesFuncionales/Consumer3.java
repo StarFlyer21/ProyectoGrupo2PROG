@@ -1,4 +1,4 @@
-package Tema13.Jorge.InterfacesFuncionales;
+package Tema13.Jesús.InterfacesFuncionales;
 
 import java.util.function.Consumer;
 

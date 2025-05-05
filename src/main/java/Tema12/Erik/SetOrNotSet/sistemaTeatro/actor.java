@@ -47,9 +47,9 @@ public class actor implements Comparable<actor> {
     public int compareTo(actor o) {
         // Solo sirve para treeSet
         // Orden natural: por código de actor
-        // return this.nombreActor.compareTo(o.nombreActor);
+        return this.nombreActor.compareTo(o.nombreActor);
 
-        return this.codigoActor-o.codigoActor;
+        // return this.codigoActor-o.codigoActor;
 
         //return o.codigoActor - this.codigoActor;
 

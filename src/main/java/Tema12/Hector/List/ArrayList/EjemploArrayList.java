@@ -1,4 +1,4 @@
-package Tema12.Hector.ArrayList;
+package Tema12.Hector.List.ArrayList;
 
 
 import java.util.ArrayList;
